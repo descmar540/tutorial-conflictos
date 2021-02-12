@@ -6,7 +6,11 @@ body {
     border: 1px solid #a0b0a0;
     margin: 20px auto;
     padding: 0 17px;
+<<<<<<< HEAD
     background-color: yellow;
+=======
+    background-color: red;
+>>>>>>> refs/remotes/origin/main
 }
 h2 {
     border-bottom: 1px solid #a0b0a0; 
